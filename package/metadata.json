@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "DarkEye"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Bard Google plasmoid for Plasma.",
+        "Icon": "search-symbolic",
+        "Id": "com.krafairus.bardgoogle",
+        "License": "BSD 3.0",
+        "Name": "Bard Google Plasmoid",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.8",
+        "Website": "https://github.com/krafairus/com.krafairus.bardgoogle"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-StandAloneApp": true
+}
