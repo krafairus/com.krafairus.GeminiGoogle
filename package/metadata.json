@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Krafairus"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Gemini Google plasmoid for Plasma.",
+        "Icon": "search-symbolic",
+        "Id": "com.krafairus.GeminiGoogle",
+        "License": "BSD 3.0",
+        "Name": "Gemini Google Plasmoid",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.8",
+        "Website": "https://github.com/krafairus/com.krafairus.GeminiGoogle"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-StandAloneApp": true
+}
