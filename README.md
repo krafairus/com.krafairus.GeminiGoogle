@@ -6,8 +6,15 @@ The name of the plasmoid as well as that of the repository and the package were 
 
 Change the size of the window to another so that it is smaller since it previously took up a lot of space on the screen, there is currently no option in the Plasmoid Gemini Google configuration menu to change the size, that option will be added in the future.
 
-## Installtion
+## New installation
 ```
+git clone git@github.com:krafairus/com.krafairus.GeminiGoogle.git
+plasmapkg2 --install ./com.krafairus.GeminiGoogle/package
+```
+
+## Upgrade from bard google to gemini google
+```
+rm -r /home/krafa/.local/share/plasma/plasmoids/com.krafairus.bardgoogle
 git clone git@github.com:krafairus/com.krafairus.GeminiGoogle.git
 plasmapkg2 --install ./com.krafairus.GeminiGoogle/package
 ```
