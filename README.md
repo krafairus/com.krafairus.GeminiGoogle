@@ -1,7 +1,8 @@
 # Gemini Google Plasmoid For Kde Plasma 
 KDE Plasma plasmoid for Gemini Google, a fork https://github.com/dark-eye/com.darkeye.chatGPT
+The name of the plasmoid as well as that of the repository and the package were updated to gemini google.
 
-![Screenshot_20240102_214552](https://github.com/krafairus/com.krafairus.BardGoogle/assets/64279814/88f097c0-dd8f-4fc9-b5ba-76ea42b938bd)
+![imagen](https://github.com/krafairus/com.krafairus.GeminiGoogle/assets/64279814/afda5582-79e3-4da3-9178-6141f190b3ba)
 
 Change the size of the window to another so that it is smaller since it previously took up a lot of space on the screen, there is currently no option in the Plasmoid Gemini Google configuration menu to change the size, that option will be added in the future.
 
