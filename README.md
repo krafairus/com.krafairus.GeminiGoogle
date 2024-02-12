@@ -1,5 +1,6 @@
 # Gemini Google Plasmoid For Kde Plasma 
 KDE Plasma plasmoid for Gemini Google, a fork https://github.com/dark-eye/com.darkeye.chatGPT
+
 The name of the plasmoid as well as that of the repository and the package were updated to gemini google.
 
 ![imagen](https://github.com/krafairus/com.krafairus.GeminiGoogle/assets/64279814/afda5582-79e3-4da3-9178-6141f190b3ba)
