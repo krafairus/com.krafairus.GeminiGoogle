@@ -13,9 +13,9 @@ git clone git@github.com:krafairus/com.krafairus.GeminiGoogle.git
 plasmapkg2 --install ./com.krafairus.GeminiGoogle/package
 ```
 
-## Upgrade from bard google to gemini google
+## Upgrade from bard google to gemini google - add your user to the first line of the command.
 ```
-rm -r /home/krafa/.local/share/plasma/plasmoids/com.krafairus.bardgoogle
+rm -r /home/youruser/.local/share/plasma/plasmoids/com.krafairus.bardgoogle
 git clone git@github.com:krafairus/com.krafairus.GeminiGoogle.git
 plasmapkg2 --install ./com.krafairus.GeminiGoogle/package
 ```
